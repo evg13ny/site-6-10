@@ -6,8 +6,9 @@
 
 * HTML
 * CSS
-* Web-fonts (Roboto, Goldman)
+* Web-fonts (Roboto, Oswald)
 
 ## Как открыть/запустить
 
-Перейти по [ссылке](https://evg13ny.github.io/site-6-10/pages/index.html).
+Чтобы посмотреть код - выбрать папки по [ссылке](https://github.com/evg13ny/site-6-10).
+Чтобы запкстить - перейти по [ссылке](https://evg13ny.github.io/site-6-10/pages/index.html).
