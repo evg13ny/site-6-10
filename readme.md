@@ -10,5 +10,5 @@
 
 ## Как открыть/запустить
 
-Чтобы посмотреть код - выбрать папки по [ссылке](https://github.com/evg13ny/site-6-10).
-Чтобы запкстить - перейти по [ссылке](https://evg13ny.github.io/site-6-10/pages/index.html).
+Чтобы посмотреть код - выбрать папку на выбор по [ссылке](https://github.com/evg13ny/site-6-10).
+Чтобы запустить - перейти по [ссылке](https://evg13ny.github.io/site-6-10/pages/index.html).
