@@ -1,6 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Goldman:wght@400;700&family=Oswald:wght@200;300;400;500;600;700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
 body {
     margin: 0;
     padding: 0;
+    font-family: 'Roboto', sans-serif;
 }
 
 header {
@@ -13,9 +17,9 @@ header {
 }
 
 h1 {
+    font-family: 'Oswald', sans-serif;
     color: #c6be94;
     font-size: 4rem;
-    font-family: 'Times New Roman', Times, serif;
 }
 
 .news {
@@ -40,7 +44,6 @@ article a:hover {
 }
 
 article h2 {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-bottom: 5px;
 }
 
@@ -77,5 +80,13 @@ footer .links > a {
 
 .copyright {
     color: rgb(108, 117, 125);
-    font-family: 'Times New Roman', Times, serif;
 }
+
+.news article:nth-child(even) {
+    background-color: greenyellow;
+}
+
+/*
+h2::after {
+    content: ' New';
+}*/
