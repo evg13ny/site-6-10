@@ -16,14 +16,14 @@ header {
 }
 
 hi {
-    color: c6be94;
+    color: #c6be94;
     font-size: 4rem;
     font-family: 'Oswald', sans-serif;
 }
 
 .news {
     background-color: #fff;
-    padding: 50 px 0 32px;
+    padding: 50px 0 32px;
 }
 
 article {
